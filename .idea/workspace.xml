@@ -26,7 +26,18 @@
     <favorites_list name="s99" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="P26.scala" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/onmsr/s99/P26.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.3127572">
+              <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -46,6 +57,25 @@
         <option value="$PROJECT_DIR$/src/main/scala/onmsr/s99/P04.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/onmsr/s99/P06.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/onmsr/s99/P07.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/onmsr/s99/P08.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/onmsr/s99/P09.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/onmsr/s99/P10.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/onmsr/s99/P11.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/onmsr/s99/P12.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/onmsr/s99/P13.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/onmsr/s99/P15.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/onmsr/s99/P16.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/onmsr/s99/P14.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/onmsr/s99/P17.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/onmsr/s99/P18.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/onmsr/s99/P19.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/onmsr/s99/P20.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/onmsr/s99/P21.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/onmsr/s99/P22.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/onmsr/s99/P23.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/onmsr/s99/P24.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/onmsr/s99/P25.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/onmsr/s99/P26.scala" />
       </list>
     </option>
   </component>
@@ -169,15 +199,15 @@
     <property name="recentsLimit" value="5" />
     <property name="dynamic.classpath" value="false" />
   </component>
-  <component name="RunManager" selected="Application.P07">
-    <configuration default="false" name="P03" type="Application" factoryName="Application" temporary="true">
+  <component name="RunManager" selected="Application.P26">
+    <configuration default="false" name="P22" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="onmsr.s99.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="onmsr.s99.P03" />
+      <option name="MAIN_CLASS_NAME" value="onmsr.s99.P22" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -190,14 +220,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="P04" type="Application" factoryName="Application" temporary="true">
+    <configuration default="false" name="P23" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="onmsr.s99.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="onmsr.s99.P04" />
+      <option name="MAIN_CLASS_NAME" value="onmsr.s99.P23" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -210,14 +240,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="P05" type="Application" factoryName="Application" temporary="true">
+    <configuration default="false" name="P24" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="onmsr.s99.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="onmsr.s99.P05" />
+      <option name="MAIN_CLASS_NAME" value="onmsr.s99.P24" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -230,14 +260,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="P06" type="Application" factoryName="Application" temporary="true">
+    <configuration default="false" name="P25" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="onmsr.s99.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="onmsr.s99.P06" />
+      <option name="MAIN_CLASS_NAME" value="onmsr.s99.P25" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -250,14 +280,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="P07" type="Application" factoryName="Application" temporary="true">
+    <configuration default="false" name="P26" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="onmsr.s99.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="onmsr.s99.P07" />
+      <option name="MAIN_CLASS_NAME" value="onmsr.s99.P26" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -466,19 +496,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.P03" />
-      <item index="1" class="java.lang.String" itemvalue="Application.P04" />
-      <item index="2" class="java.lang.String" itemvalue="Application.P05" />
-      <item index="3" class="java.lang.String" itemvalue="Application.P06" />
-      <item index="4" class="java.lang.String" itemvalue="Application.P07" />
+      <item index="0" class="java.lang.String" itemvalue="Application.P22" />
+      <item index="1" class="java.lang.String" itemvalue="Application.P23" />
+      <item index="2" class="java.lang.String" itemvalue="Application.P24" />
+      <item index="3" class="java.lang.String" itemvalue="Application.P25" />
+      <item index="4" class="java.lang.String" itemvalue="Application.P26" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.P07" />
-        <item index="1" class="java.lang.String" itemvalue="Application.P06" />
-        <item index="2" class="java.lang.String" itemvalue="Application.P05" />
-        <item index="3" class="java.lang.String" itemvalue="Application.P04" />
-        <item index="4" class="java.lang.String" itemvalue="Application.P03" />
+        <item index="0" class="java.lang.String" itemvalue="Application.P26" />
+        <item index="1" class="java.lang.String" itemvalue="Application.P25" />
+        <item index="2" class="java.lang.String" itemvalue="Application.P24" />
+        <item index="3" class="java.lang.String" itemvalue="Application.P23" />
+        <item index="4" class="java.lang.String" itemvalue="Application.P22" />
       </list>
     </recent_temporary>
   </component>
@@ -518,6 +548,9 @@
     </option>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="9b4cffd8-24fb-4596-83cb-9332e119b98f" name="Default" comment="" />
@@ -529,7 +562,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="2560" height="1573" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
@@ -540,7 +573,7 @@
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32978016" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32978016" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3296875" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.12148438" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -556,6 +589,14 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
     </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -609,14 +650,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/onmsr/s99/P07.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.48868313">
-          <caret line="25" column="32" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/onmsr/s99/P06.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.35185185">
@@ -629,6 +662,166 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.29320988">
           <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/onmsr/s99/P07.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="32" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/onmsr/s99/P08.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.27366254">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/onmsr/s99/P09.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.50823045">
+          <caret line="26" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/onmsr/s99/P10.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.50823045">
+          <caret line="26" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/onmsr/s99/P11.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.37139916">
+          <caret line="19" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/onmsr/s99/P12.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/onmsr/s99/P13.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3127572">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/onmsr/s99/P16.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.17592593">
+          <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/onmsr/s99/P14.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.21502058">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/onmsr/s99/P15.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.09773663">
+          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/onmsr/s99/P17.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/onmsr/s99/P18.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="16" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/onmsr/s99/P19.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/onmsr/s99/P21.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/onmsr/s99/P20.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="13" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/onmsr/s99/P22.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/onmsr/s99/P23.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/onmsr/s99/P24.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/onmsr/s99/P25.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/onmsr/s99/P26.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3127572">
+          <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
           <folding />
         </state>
       </provider>
